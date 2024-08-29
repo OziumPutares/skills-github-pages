@@ -1,0 +1,4 @@
+theme: minima
+title: adventure of making chess engine
+author: Eugeniusz Lewandowski
+description: making my own bitboard chess engine and lessons learnt from it
